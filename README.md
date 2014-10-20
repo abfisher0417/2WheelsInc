@@ -1,14 +1,6 @@
 2WheelsInc
 ==========
 
-/*
- * README.txt
- *
- * Author: Andrew Fisher
- * Version: 1.0
- * Last Modified Date: 01/29/2014
- */
-
 To recreate the summary report for Geographical Penetration and Product Mix by Postal Code for US Territories perform the following steps:
 
 1)  Create a view in the Data Warehouse and OLTP databases by executing:
